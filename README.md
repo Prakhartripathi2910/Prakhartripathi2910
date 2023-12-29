@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Prakhar Tripathi
+- 👀 I’m interested in programming,music,gaming,sports
+- 🌱 I’m currently learning programming in C,Python and Linux
+- 📕I'm currently studying in SRM University, Chennai in B.Tech course for ECE
+- 📫 How to reach me:
+- 📧Email: prakhart43@gmail.com
